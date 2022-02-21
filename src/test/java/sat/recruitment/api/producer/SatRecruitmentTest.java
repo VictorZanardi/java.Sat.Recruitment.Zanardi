@@ -1,4 +1,4 @@
-package platform.messagingservice.producer;
+package sat.recruitment.api.producer;
 
 import org.junit.jupiter.api.Test;
 
